@@ -1,0 +1,6 @@
+{
+  "name": "XTV",
+  "description": "تطبيق XTV الفاخر لمشاهدة القنوات التلفزيونية المباشرة العربية والعالمية بدقة عالية وبث سلس وسريع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
